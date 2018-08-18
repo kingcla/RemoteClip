@@ -1,0 +1,6 @@
+C:\Users\Claudio\source\repos\RemoteClip\RemoteClip\RemoteClip.Core\bin\Debug\netcoreapp2.1\RemoteClip.Core.deps.json
+C:\Users\Claudio\source\repos\RemoteClip\RemoteClip\RemoteClip.Core\bin\Debug\netcoreapp2.1\RemoteClip.Core.dll
+C:\Users\Claudio\source\repos\RemoteClip\RemoteClip\RemoteClip.Core\obj\Debug\netcoreapp2.1\RemoteClip.Core.csprojAssemblyReference.cache
+C:\Users\Claudio\source\repos\RemoteClip\RemoteClip\RemoteClip.Core\obj\Debug\netcoreapp2.1\RemoteClip.Core.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\source\repos\RemoteClip\RemoteClip\RemoteClip.Core\obj\Debug\netcoreapp2.1\RemoteClip.Core.AssemblyInfoInputs.cache
+C:\Users\Claudio\source\repos\RemoteClip\RemoteClip\RemoteClip.Core\obj\Debug\netcoreapp2.1\RemoteClip.Core.AssemblyInfo.cs

@@ -1,0 +1,12 @@
+C:\Users\Claudio\source\repos\RemoteClip\RemoteClip\RemoteClip.Mobile\RemoteClip.Mobile\bin\Debug\netstandard2.0\RemoteClip.Mobile.deps.json
+C:\Users\Claudio\source\repos\RemoteClip\RemoteClip\RemoteClip.Mobile\RemoteClip.Mobile\bin\Debug\netstandard2.0\RemoteClip.Mobile.dll
+C:\Users\Claudio\source\repos\RemoteClip\RemoteClip\RemoteClip.Mobile\RemoteClip.Mobile\obj\Debug\netstandard2.0\RemoteClip.Mobile.csprojAssemblyReference.cache
+C:\Users\Claudio\source\repos\RemoteClip\RemoteClip\RemoteClip.Mobile\RemoteClip.Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Claudio\source\repos\RemoteClip\RemoteClip\RemoteClip.Mobile\RemoteClip.Mobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Claudio\source\repos\RemoteClip\RemoteClip\RemoteClip.Mobile\RemoteClip.Mobile\obj\Debug\netstandard2.0\RemoteClip.Mobile.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\source\repos\RemoteClip\RemoteClip\RemoteClip.Mobile\RemoteClip.Mobile\obj\Debug\netstandard2.0\RemoteClip.Mobile.AssemblyInfoInputs.cache
+C:\Users\Claudio\source\repos\RemoteClip\RemoteClip\RemoteClip.Mobile\RemoteClip.Mobile\obj\Debug\netstandard2.0\RemoteClip.Mobile.AssemblyInfo.cs
+C:\Users\Claudio\source\repos\RemoteClip\RemoteClip\RemoteClip.Mobile\RemoteClip.Mobile\bin\Debug\netstandard2.0\RemoteClip.Mobile.pdb
+C:\Users\Claudio\source\repos\RemoteClip\RemoteClip\RemoteClip.Mobile\RemoteClip.Mobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Claudio\source\repos\RemoteClip\RemoteClip\RemoteClip.Mobile\RemoteClip.Mobile\obj\Debug\netstandard2.0\RemoteClip.Mobile.dll
+C:\Users\Claudio\source\repos\RemoteClip\RemoteClip\RemoteClip.Mobile\RemoteClip.Mobile\obj\Debug\netstandard2.0\RemoteClip.Mobile.pdb
