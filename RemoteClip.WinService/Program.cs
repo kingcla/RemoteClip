@@ -17,7 +17,7 @@ namespace RemoteClip.WinService
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new Service1()
+                new SyncService()
             };
             ServiceBase.Run(ServicesToRun);
         }

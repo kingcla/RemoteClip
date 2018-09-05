@@ -27,7 +27,7 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "RemoteClip.Server", "Remote
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteClip.WCFService", "RemoteClip.WCFService\RemoteClip.WCFService.csproj", "{A7426055-5878-4687-8E2F-5152829F2A1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteCli.WinNotify", "RemoteCli.WinNotify\RemoteCli.WinNotify.csproj", "{829518BF-387D-463D-A8DB-E40A9EB10531}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteClip.WinNotify", "RemoteClip.WinNotify\RemoteClip.WinNotify.csproj", "{829518BF-387D-463D-A8DB-E40A9EB10531}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Resources", "_Resources", "{6B0E674B-30D1-4A87-9734-5C72EF74323C}"
 EndProject
